@@ -9,11 +9,11 @@
   "author": "Emerson Duarte",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "bson-ext": "^2.0.5",
     "consign": "^0.1.6",
     "ejs": "^2.7.4",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-session": "^1.17.1",
     "express-validator": "^4.3.0",
     "mongodb": "^3.1.13",
